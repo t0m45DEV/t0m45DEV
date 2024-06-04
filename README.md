@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello there :D
 
-<!--
-**t0m45DEV/t0m45DEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Tomas Lisazo, a young Computer Science student at UBA.
 
-Here are some ideas to get you started:
+I like to develop video games in my free time, apart from programming different programs to learn and get to know different tools. The different programming projects that I design are published in this account.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎮 Games already published:
+
+- [Spinning Ball](https://play.google.com/store/apps/details?id=t0m45DEV.SpinningBall).
+- [The Top](https://cachimba-games.itch.io/the-top)
+- [Santa's drunk](https://cachimba-games.itch.io/santas-drunk)
+- [Through the Asteroid Belt](https://t0m45dev.itch.io/asteroidsbelt)
+
+I am currently working on a mobile video game that, hopefully, will be published before 2025 ⚡
