@@ -6,7 +6,7 @@ I like to develop video games in my free time, apart from programming different 
 
 ## 🎮 Games already published:
 
-- [Spinning Ball](https://play.google.com/store/apps/details?id=t0m45DEV.SpinningBall).
+- [Spinning Ball](https://play.google.com/store/apps/details?id=t0m45DEV.SpinningBall)
 - [The Top](https://cachimba-games.itch.io/the-top)
 - [Santa's drunk](https://cachimba-games.itch.io/santas-drunk)
 - [Through the Asteroid Belt](https://t0m45dev.itch.io/asteroidsbelt)
