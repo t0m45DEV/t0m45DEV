@@ -2,7 +2,7 @@
 
 My name is Tomas Lisazo, a young Computer Science student at UBA.
 
-I like to develop video games in my free time, apart from programming different programs to learn and get to know different tools. The different programming projects that I design are published in this account.
+I like developing video games in my free time, apart from coding different programs to learn and getting to know different tools. You can find more of my programming projects in my account.
 
 ## 🎮 Published games:
 
